@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  payments:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2025-09-02T20:54:14.093402+04:00"
+    description: A Helm chart for Kubernetes
+    digest: 9965d80791d9aede7f2cbcffd95e12b71c4986abe0a0869cd6aa11e040efc9b8
+    name: payments
+    type: application
+    urls:
+    - payments-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-02T20:54:14.092463+04:00"
